@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\test\\FirstAzurehostedwebapp\\FirstAzurehostedwebapp\\FirstAzurehostedwebapp.csproj",
+      "projectUniqueName": "C:\\test\\AzureSample\\FirstAzurehostedwebapp\\FirstAzurehostedwebapp\\FirstAzurehostedwebapp.csproj",
       "projectName": "FirstAzurehostedwebapp",
-      "projectPath": "C:\\test\\FirstAzurehostedwebapp\\FirstAzurehostedwebapp\\FirstAzurehostedwebapp.csproj",
+      "projectPath": "C:\\test\\AzureSample\\FirstAzurehostedwebapp\\FirstAzurehostedwebapp\\FirstAzurehostedwebapp.csproj",
       "packagesPath": "C:\\Users\\Siddhant Sharma\\.nuget\\packages\\",
-      "outputPath": "C:\\test\\FirstAzurehostedwebapp\\FirstAzurehostedwebapp\\obj\\",
+      "outputPath": "C:\\test\\AzureSample\\FirstAzurehostedwebapp\\FirstAzurehostedwebapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Siddhant Sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",

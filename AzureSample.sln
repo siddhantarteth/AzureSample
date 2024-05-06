@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstAzureHostedWebApp", "FirstAzurehostedwebapp\FirstAzureHostedWebApp.csproj", "{FC48CE9B-5936-46D9-BBFE-0E50D1180182}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC48CE9B-5936-46D9-BBFE-0E50D1180182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC48CE9B-5936-46D9-BBFE-0E50D1180182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC48CE9B-5936-46D9-BBFE-0E50D1180182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC48CE9B-5936-46D9-BBFE-0E50D1180182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

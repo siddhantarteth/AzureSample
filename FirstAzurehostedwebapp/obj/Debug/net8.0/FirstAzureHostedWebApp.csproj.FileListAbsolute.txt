@@ -1,0 +1,41 @@
+C:\all prog\FirstAzureHostedWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\all prog\FirstAzureHostedWebApp\bin\Debug\net8.0\appsettings.json
+C:\all prog\FirstAzureHostedWebApp\bin\Debug\net8.0\FirstAzureHostedWebApp.staticwebassets.runtime.json
+C:\all prog\FirstAzureHostedWebApp\bin\Debug\net8.0\FirstAzureHostedWebApp.exe
+C:\all prog\FirstAzureHostedWebApp\bin\Debug\net8.0\FirstAzureHostedWebApp.deps.json
+C:\all prog\FirstAzureHostedWebApp\bin\Debug\net8.0\FirstAzureHostedWebApp.runtimeconfig.json
+C:\all prog\FirstAzureHostedWebApp\bin\Debug\net8.0\FirstAzureHostedWebApp.dll
+C:\all prog\FirstAzureHostedWebApp\bin\Debug\net8.0\FirstAzureHostedWebApp.pdb
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\FirstAzureHostedWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\FirstAzureHostedWebApp.AssemblyInfoInputs.cache
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\FirstAzureHostedWebApp.AssemblyInfo.cs
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\FirstAzureHostedWebApp.csproj.CoreCompileInputs.cache
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\FirstAzureHostedWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\FirstAzureHostedWebApp.RazorAssemblyInfo.cache
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\FirstAzureHostedWebApp.RazorAssemblyInfo.cs
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\staticwebassets\msbuild.FirstAzureHostedWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.FirstAzureHostedWebApp.props
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FirstAzureHostedWebApp.props
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FirstAzureHostedWebApp.props
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\scopedcss\bundle\FirstAzureHostedWebApp.styles.css
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\scopedcss\projectbundle\FirstAzureHostedWebApp.bundle.scp.css
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\FirstAzureHostedWebApp.dll
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\refint\FirstAzureHostedWebApp.dll
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\FirstAzureHostedWebApp.pdb
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\FirstAzureHostedWebApp.genruntimeconfig.cache
+C:\all prog\FirstAzureHostedWebApp\obj\Debug\net8.0\ref\FirstAzureHostedWebApp.dll
+C:\test\AzureSample\FirstAzurehostedwebapp\obj\Debug\net8.0\FirstAzureHostedWebApp.csproj.AssemblyReference.cache
+C:\test\AzureSample\FirstAzurehostedwebapp\obj\Debug\net8.0\FirstAzureHostedWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\AzureSample\FirstAzurehostedwebapp\obj\Debug\net8.0\FirstAzureHostedWebApp.AssemblyInfoInputs.cache
+C:\test\AzureSample\FirstAzurehostedwebapp\obj\Debug\net8.0\FirstAzureHostedWebApp.AssemblyInfo.cs
+C:\test\AzureSample\FirstAzurehostedwebapp\obj\Debug\net8.0\FirstAzureHostedWebApp.csproj.CoreCompileInputs.cache
+C:\test\AzureSample\FirstAzurehostedwebapp\obj\Debug\net8.0\FirstAzureHostedWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\test\AzureSample\FirstAzurehostedwebapp\obj\Debug\net8.0\FirstAzureHostedWebApp.RazorAssemblyInfo.cache
+C:\test\AzureSample\FirstAzurehostedwebapp\obj\Debug\net8.0\FirstAzureHostedWebApp.RazorAssemblyInfo.cs
+C:\test\AzureSample\FirstAzurehostedwebapp\obj\Debug\net8.0\FirstAzureHostedWebApp.dll
+C:\test\AzureSample\FirstAzurehostedwebapp\obj\Debug\net8.0\refint\FirstAzureHostedWebApp.dll
+C:\test\AzureSample\FirstAzurehostedwebapp\obj\Debug\net8.0\FirstAzureHostedWebApp.pdb
