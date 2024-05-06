@@ -1,0 +1,6 @@
+@FirstAzurehostedwebapp_HostAddress = http://localhost:5158
+
+GET {{FirstAzurehostedwebapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
